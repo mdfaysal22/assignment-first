@@ -149,28 +149,28 @@
   align-items: center;
   padding: 0 4rem;
 }
-#first-contribute .container .text-content {
+#first-contribute .text-content {
   padding: 0 4rem 0 0;
 }
-#first-contribute .container .text-content h1 {
+#first-contribute .text-content h1 {
   font-size: 2rem;
   color: #121212;
   margin-bottom: 1rem;
 }
-#first-contribute .container .text-content p {
+#first-contribute .text-content p {
   color: #707070;
   font-size: 1.1rem;
   line-height: 1.2;
   margin: 0 0 1rem 0;
 }
-#first-contribute .container .text-content .btn {
+#first-contribute .btn {
   margin-left: 0;
 }
-#first-contribute .container .image {
+#first-contribute .image {
   width: 70%;
   overflow: hidden;
 }
-#first-contribute .container .image img {
+#first-contribute .image img {
   width: 100%;
   border-radius: 5px;
 }
