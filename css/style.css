@@ -232,10 +232,11 @@
   overflow: hidden;
   padding: 2rem;
   border-radius: 5px;
+  border: 1px solid #FAFAFA;
 }
 #payment .payment-container .pay-card img {
-  width: 50%;
-  height: 50%;
+  width: 150px;
+  height: 100px;
 }
 #payment .payment-container .pay-card h3 {
   color: #0B0D17;
