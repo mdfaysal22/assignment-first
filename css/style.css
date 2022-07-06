@@ -209,6 +209,46 @@
 #secand-contribute .btn {
   margin-left: 0;
 }
+#payment {
+  margin: 2rem 0;
+  text-align: center;
+}
+#payment .pay-content-header h1 {
+  color: #121212;
+  font-size: 2rem;
+}
+#payment .pay-content-header p {
+  color: #707070;
+}
+#payment .payment-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 2rem 0;
+}
+#payment .payment-container .pay-card {
+  width: 20vw;
+  background-color: #FAFAFA;
+  overflow: hidden;
+  padding: 2rem;
+  border-radius: 5px;
+}
+#payment .payment-container .pay-card img {
+  width: 50%;
+  height: 50%;
+}
+#payment .payment-container .pay-card h3 {
+  color: #0B0D17;
+}
+#payment .payment-container .pay-card:hover {
+  background-color: #FFEEEE;
+  border: 1px solid #FF5959;
+}
+#payment .payment-container .pay-card:hover h3 {
+  color: #FF5959;
+}
+
+
 
 #my-update {
   margin-top: 3rem;
